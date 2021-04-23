@@ -20,6 +20,7 @@ int main()
 void train()
 {
 	printf("The second one is a train function\n");
+	printf("The firstFeature is added\n");
 }
 void predict() 
 {
