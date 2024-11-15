@@ -1,2 +1,0 @@
-# SEF
-Readme file
